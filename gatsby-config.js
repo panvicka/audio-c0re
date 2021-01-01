@@ -7,7 +7,7 @@ module.exports = {
       resolve: "gatsby-source-contentful",
       options: {
         accessToken: "GZZUaC-qp0wtJoxious8hctxheXHP8PBzB1ofeyCrPg",
-        spaceId: "",
+        spaceId: "9u8532njgcs5",
       },
     },
     "gatsby-plugin-sharp",
